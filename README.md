@@ -9,4 +9,4 @@ This a simple template to for Tomb Finance with a few hardhat commands.
 ## Todo
 
     * Create deplyment script
-    * Clean the finance spaguetti code (I wish I never fork them)
+    * Clean the peak finance spaguetti code (I wish I never fork them)
