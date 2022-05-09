@@ -1,6 +1,6 @@
 # Template to for Tomb Finance
 
-This a simple template to for Tomb Finance with a few hardhat commands.
+This a simple template to fork Tomb Finance with a few hardhat commands.
 
 ## What is working
 
